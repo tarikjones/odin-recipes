@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to help me brush up on my coding knowledge. I'm comfortable with HTML/CSS. Still need more practice with javascript and some other stuff. Here we go!
